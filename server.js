@@ -31,7 +31,7 @@ function presence() {
         activity: {
             name: "Bad Bunny :v",
             type: "LISTENING",
-            url: "https://www.twitch.tv/Byalekey15"
+            url: "https://www.twitch.tv/alekeyzhito"
         }
     })
 }
